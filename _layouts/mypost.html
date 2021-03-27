@@ -16,6 +16,22 @@
     {% include ext-adsense.html -%}
   </div>
   {% endif %}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+  var gitalk = new Gitalk({
+  clientID: 'c6077af0b625b8e926b7',
+  clientSecret: 'd35e2e952e0566afe39d0d12533d1033420303c6',
+  repo: 'ke-nan.github.io',
+  owner: 'ke-nan',
+  admin: ['ke-nan'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+
+gitalk.render('gitalk-container')
+</script>
 </div>
 {% include footer.html -%}
 {% include script.html -%}
