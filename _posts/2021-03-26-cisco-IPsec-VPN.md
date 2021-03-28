@@ -5,7 +5,7 @@ categories: [Cisco]
 ---
 ###### 拓扑图：
 
-![](/assets/img/IPSecvpn.png)
+![](https://cdn.jsdelivr.net/gh/ke-nan/ke-nan.github.io@master/assets/img/IPSecvpn.png)
 
 ###### 配置命令：
 
