@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: 思科路由器配置ipsec over gre
-categories: [Cisco,ipsec,gre]
+categories: [Cisco,ipsec,gre,vpn]
 ---
 
 
