@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title:  思科路由器IPSec vpn配置
-categories: [Cisco]
+categories: [Cisco,ipsec,vpn]
 ---
 ###### 拓扑图：
 
