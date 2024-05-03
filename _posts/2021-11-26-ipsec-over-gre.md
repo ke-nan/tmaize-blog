@@ -8,7 +8,7 @@ categories: [Cisco,ipsec,gre,vpn]
 
 ##### 拓扑：
 
-![](https://cdn.jsdelivr.net/gh/ke-nan/ke-nan.github.io@master/assets/img/ipsec-over-gre.png)
+![](/assets/img/ipsec-over-gre.png)
 
 ##### 配置：
 

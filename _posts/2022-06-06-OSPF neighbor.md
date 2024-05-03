@@ -6,7 +6,7 @@ categories: [Cisco,ospf]
 
 实验拓扑：
 
-![](https://cdn.jsdelivr.net/gh/ke-nan/ke-nan.github.io@master/assets/img/Snipaste_2022-06-06_14-05-10.png)
+![](/assets/img/Snipaste_2022-06-06_14-05-10.png)
 
 正常状态（full）下的配置：
 
